@@ -1116,6 +1116,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 /* ------------------------------------------------------------------- 
  * ## skillbars 
  * ------------------------------------------------------------------- */
+ .box-shadow{
+    box-shadow: 5px 10px #124d2140;
+ }
 .skill-bars {
     list-style: none;
     margin: 6rem 0 3rem;
@@ -2494,7 +2497,7 @@ html.no-csstransitions .home-content__main {
 .s-works {
     background: #111;
     padding: 0 0 15rem 0;
-    min-height: 800px;
+    min-height:850px;
     position: relative;
 }
 
