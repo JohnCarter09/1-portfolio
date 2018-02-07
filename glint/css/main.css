@@ -117,6 +117,9 @@ h1, h2, h3, h4, h5, h6,
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
+.h3-color{
+    color:#fff;
+}
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     margin-top: 6rem;
@@ -1116,7 +1119,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 /* ------------------------------------------------------------------- 
  * ## skillbars 
  * ------------------------------------------------------------------- */
- .box-shadow{
+ .box-shadow {
     box-shadow: 5px 10px #124d2140;
  }
 .skill-bars {
