@@ -3482,6 +3482,7 @@ footer .row {
 
 .footer-bottom .copyright span {
     display: inline-block;
+    padding: 15px;
 }
 
 .footer-bottom .copyright span::after {
