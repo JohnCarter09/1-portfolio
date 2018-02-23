@@ -840,6 +840,16 @@ input[type="button"].btn--primary {
     color: #FFFFFF;
 }
 
+    .btn.btn--primary-full-width-design,
+    button.btn--primary,
+    input[type="submit"].btn--primary,
+    input[type="reset"].btn--primary,
+    input[type="button"].btn--primary {
+    background: #39b54a;
+    border-color: #39b54a;
+    color: #FFFFFF;
+}
+
 .btn.btn--primary:hover,
 button.btn--primary:hover,
 input[type="submit"].btn--primary:hover,
